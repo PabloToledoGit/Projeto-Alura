@@ -21,6 +21,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 40px;
 }
 .apresentacao__conteudo{
     width: 615px;
@@ -71,8 +72,7 @@ body{
 }
 .apresentacao__links__link:hover{
     background-color: #272727;
-    padding-right: 30px;
-    padding-left: 30px;
+
 }
 
 .cabecalho{
