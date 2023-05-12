@@ -30,7 +30,7 @@ body{
 }
 
 .apresentacao{
-    margin: 10% 15%;
+    margin: 10% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -168,3 +168,7 @@ body{
     background-color: var(--cor-hover);
  }
 
+.imagempablo{
+
+    width: 80%;
+}
