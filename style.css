@@ -170,5 +170,30 @@ body{
 
 .imagempablo{
 
-    width: 80%;
+   width: 580px ;
+}
+
+@media (max-width: 1000px) {
+
+ .apresentacao{
+   
+    flex-direction: column-reverse;
+ }
+
+ .segmento{
+
+   margin: 0;
+   margin-left: 35%;
+    
+ }
+
+}
+
+@media (max-width:691px){
+
+    .segmento{
+
+        margin:0;
+        margin-left: 31%;
+    }
 }
